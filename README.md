@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 <hr/>
 <div  align="center">
   <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+   <img alt="snake eating my contributions" src="https://github.com/dvnam1401/dvnam1401/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
