@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm VanNam</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvnam1401&label=Profile%20views&color=0e75b6&style=flat" alt="dvnam1401" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvnam1401" alt="dvnam1401" /></a> </p>
-
 - 🌱 I’m currently learning **Django, Spring, Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dvnam1401](https://github.com/dvnam1401)
